@@ -192,6 +192,6 @@ Path found: ['A', 'E', 'D', 'G']
 
 ![Screenshot 2025-04-07 081621](https://github.com/user-attachments/assets/8ecdc190-8b4c-4875-a022-bda5099c0bb6)
 
-Result:
+# Result:
 Thus the python program to implement A* search is successfully done.
 
